@@ -15,5 +15,5 @@ In Future
 =========
 I will update the app with:
 
-  -Require JS for bonus points
-  -Twitter bootstrap for bonus points
+  > Require JS for bonus points
+  > Twitter bootstrap for bonus points
