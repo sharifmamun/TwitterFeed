@@ -2,7 +2,7 @@
 session_start();
 require_once('twitteroauth-master/twitteroauth/twitteroauth.php'); //Path to twitteroauth library
 $twitteruser = "sharifmamun";
-$search = "#Bangladesh";
+$search = "#Cricket#Bangladesh";
 $notweets = 50;
 $consumerkey = "5yWvCE0fbjJHsb5RL7nGg";
 $consumersecret = "mlqKMyDJJssMw7o1dy9MUynXuN00fjXax4KX0B5f05Q";

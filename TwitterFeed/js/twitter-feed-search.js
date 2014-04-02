@@ -26,7 +26,7 @@
 		 gettwitterjson();
 		 
 		function gettwitterjson() { 
-			$.getJSON('http://localhost/auth.php', 
+			$.getJSON('http://ec2-54-186-195-12.us-west-2.compute.amazonaws.com/TwitterFeed/auth.php', 
 				function(feeds) {   
 				   feeds = feeds.statuses; //search returns an array of statuses
 					//alert(feeds);   

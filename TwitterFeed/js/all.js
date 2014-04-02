@@ -1,5 +1,5 @@
 var MessageModel = Backbone.Model.extend({
-    urlRoot : 'http://localhost/auth.php',
+    urlRoot : 'http://ec2-54-186-195-12.us-west-2.compute.amazonaws.com/TwitterFeed/auth.php',
     defaults: {
         message: "Text Message"
     }
